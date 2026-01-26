@@ -1,4 +1,4 @@
-## Hey    (～￣▽￣)～
+## Hey    ヾ(^▽^*)))
 ### I'm Abhinav
 
 Welcome to my Github page! 
