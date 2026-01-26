@@ -1,9 +1,25 @@
-## Hi there 👋
+## Hey    (～￣▽￣)～
+### I'm Abhinav
 
-<!--
-**Abhinav-CodesForLIfe/Abhinav-CodesForLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page! 
 
-Here are some ideas to get you started:
+
+I'm a coding enthusiast and i love learning new things.
+#needtotouchgrass
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width=25% />
+
+## Here are some tools I use
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## How to reach me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhinav-acharya-a80b4137a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhinav.irl/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavacharya.2007@gmail.com)
+
+Still learning, still improving:)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
