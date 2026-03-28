@@ -1,13 +1,10 @@
-## Hey    ヾ(^▽^*)))
+## Hey
 ### I'm Abhinav
 
 Welcome to my Github page! 
 
 
 I'm a coding enthusiast and i love learning new things.
-#needtotouchgrass
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width=25% />
 
 ## Here are some tools I use
 
