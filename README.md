@@ -8,8 +8,7 @@
 
 ### About Me
 
-- 🎓 B.Tech in Computer Science (AI & ML) — VIT Bhopal University  
-- 📍 Based in Bhopal, India  
+- 🎓 B.Tech in Computer Science (AI & ML) — VIT Bhopal University   
 - 🌱 Currently building my foundations in programming and software development  
 - 🏸 Badminton player when I'm away from the screen  
 - 💡 I believe in learning by building — one project at a time
