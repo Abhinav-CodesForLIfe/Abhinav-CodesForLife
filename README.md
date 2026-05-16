@@ -23,17 +23,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-CodesForLIfe&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-CodesForLIfe&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="155"/>
-</p>
-
----
 
 ### 📬 Connect with Me
 
